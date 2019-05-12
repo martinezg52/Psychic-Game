@@ -1,0 +1,35 @@
+h1 {
+    color: green;
+    font-size: 40px;
+    background-color: rgb(235, 235, 56);
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(189, 186, 8);
+    font-size: 30px;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    vertical-align: middle;
+    float: right;
+    margin-right: 32%;
+    margin-bottom: 5%;
+
+}
